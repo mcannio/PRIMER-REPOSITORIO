@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Más cosas sobre mí</title>
+	</head>
+	<body>
+    <h1>Marta Caño</h1>
+    <h2>Madrid</h2>
+    <h3>Diplomada en Dirección Cinematográfica</h3>
+    <p>No tengo experiencia en programación, esta es mi primera vez</p>
+     
+		<div>
+      <ul>Estas son mis aficiones:
+        <li>Cine</li>
+        <li>Música</li>
+        <li>Fotografía</li>
+        <li>Senderismo</li>
+        <li>Comer, ¡me encanta!</li>
+      </ul> 
+      
+	 </div>
+	</body>
+</html>
